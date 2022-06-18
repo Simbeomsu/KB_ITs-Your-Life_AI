@@ -1,5 +1,9 @@
 # K-Bitamin
-KB국민은행 IT's Your Life 1기 - 1조 발표 자료
+KB국민은행 IT's Your Life 1기 - Final Project
+
+의약품 관리 웹어플리케이션의 AI분야 코드입니다. 
+
+상세내용은 아래 발표자료 참고
 
 
 ![1조_K-Bitamin v1 6_최종-01](https://user-images.githubusercontent.com/53815335/173016459-f2a066db-5525-4cc3-9155-6985dd73bc32.png)
